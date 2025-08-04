@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81255207773",
+    "project_id": "jenkins345",
+    "storage_bucket": "jenkins345.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81255207773:android:c4665a67867eadaac30eb4",
+        "android_client_info": {
+          "package_name": "com.devesh.jenkinsd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4qpkYaWty8ped6uVx1JOYFrrAtsu9h1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
